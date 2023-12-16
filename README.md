@@ -22,11 +22,15 @@
     <li><strong>Interactive User Experience:</strong> Receive clear prompts and playful instructions for a delightful gaming experience.</li>
   </ul>
 
-  <p>To play or contribute, visit the <a href="https://github.com/shreyanshsinghks/TicTacToe">GitHub repository</a>.</p>
+  <p>To play or contribute, visit the <a href="https://github.com/your-username/kotlin-tic-tac-toe">GitHub repository</a>.</p>
 
   <footer>
     <p>Get ready for some Kotlin-powered Tic Tac Toe action! If you spot any issues or have awesome suggestions, drop them in the GitHub issues. Happy coding and gaming! 🎉</p>
   </footer>
+
+  <h2>App Screenshots</h2>
+  <img src="Images/Opening_splash_screen.png" alt="Opening Splash Screen" width="300">
+  <img src="Images/Main_playing.png" alt="Main Playing Screen" width="300">
 
 </body>
 
